@@ -1,8 +1,9 @@
+<h1 align="center">Loghaven</h1>
+
 <p align="center">
   <img src="assets/loghaven-logo.png" width="120" alt="Loghaven logo">
 </p>
 
-<h1 align="center">Loghaven</h1>
 
 <p align="center">
   Offline-first Android job and time tracking.
