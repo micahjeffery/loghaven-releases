@@ -22,7 +22,7 @@
 
 ## Features
 
-* Live job and task timers
+* Job and task timers
 * Paid and unpaid breaks
 * Scheduled future stops
 * Manual entries and editing
