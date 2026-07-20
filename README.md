@@ -19,7 +19,7 @@ Loghaven is an offline-first Android app for tracking work hours across clients,
 
 Download the latest APK from the [Releases](../../releases) page.
 
-For automatic update notifications, add this repository to [Obtainium](https://obtainium.imranr.dev/).
+For automatic update notifications, add this repository to [Obtainium](https://obtainium.imranr.dev/) and **enable prereleases**.
 
 ## Privacy
 
