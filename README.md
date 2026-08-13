@@ -50,9 +50,6 @@ Android cloud backup is disabled. Use Loghaven’s backup tools before reinstall
 
 Visit [micahjeffery.com/support](https://micahjeffery.com/support).
 
-## Status
-
-Loghaven is currently prerelease software. Back up important data before installing updates.
 
 ## Demo data
 
