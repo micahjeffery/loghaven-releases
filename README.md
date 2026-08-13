@@ -38,7 +38,7 @@
 
 Download the latest APK from the [Releases](../../releases) page.
 
-For automatic update notifications, add this repository to [Obtainium](https://obtainium.imranr.dev/) and **enable prereleases**.
+For automatic update notifications, add this repository to [Obtainium](https://obtainium.imranr.dev/).
 
 ## Privacy
 
